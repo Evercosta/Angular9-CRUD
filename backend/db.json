@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S10",
+      "price": "2000.89"
+    },
+    {
+      "name": "TV Philips 42 polegadas",
+      "price": "1719.99",
+      "id": 5
+    }
+  ]
+}
